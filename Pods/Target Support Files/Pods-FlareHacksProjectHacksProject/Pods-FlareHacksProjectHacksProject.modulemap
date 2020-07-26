@@ -1,0 +1,6 @@
+framework module Pods_FlareHacksProjectHacksProject {
+  umbrella header "Pods-FlareHacksProjectHacksProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

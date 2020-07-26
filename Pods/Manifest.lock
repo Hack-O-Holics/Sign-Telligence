@@ -1,0 +1,16 @@
+PODS:
+  - InstantSearchVoiceOverlay (1.1.0)
+
+DEPENDENCIES:
+  - InstantSearchVoiceOverlay
+
+SPEC REPOS:
+  trunk:
+    - InstantSearchVoiceOverlay
+
+SPEC CHECKSUMS:
+  InstantSearchVoiceOverlay: 8fcbd0c143c872e6b39ef9b6475f1dfeb9ebfbcf
+
+PODFILE CHECKSUM: 6a1e7d2fbdcd3baada0d67363d8c668c8784810a
+
+COCOAPODS: 1.9.3
