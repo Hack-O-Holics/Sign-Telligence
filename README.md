@@ -20,4 +20,4 @@ We learned how to export PyTorch models to XCode and implement VR tools in iOS a
 Hopefully larger datasets will be created, so we can classify more types of signs. We also plan on improving the user interface to make it more aesthetically pleasing for our users.
 
 ## Video Demo
-https://www.youtube.com/watch?v=gcGmQDt3tgY&feature=youtu.be
+https://www.youtube.com/redirect?v=gcGmQDt3tgY&redir_token=QUFFLUhqbGdpZEZTN1cwdG9hUDNHTWFYUGpMcnlfUEc1QXxBQ3Jtc0tseFM0NTExTDNVNndZd3BRY2I4SFZOZjdmRTUxczFXd044VUE5Nm4zR2dlLUttR2VlSm1xRGFQUkVwS1E0U3o1NEhvbURzS055c0xGams2b1l6VTJTZzJhRjYtdVB0Q29EOGxZNEtNUmZEMlZGWHEwSQ%3D%3D&event=video_description&q=https%3A%2F%2F1drv.ms%2Fv%2Fs%21AhgwwDStSlSYwWwvG2naShv36TpK%3Fe%3DmmSP7o
