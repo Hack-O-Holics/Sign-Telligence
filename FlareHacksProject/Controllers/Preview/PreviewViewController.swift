@@ -1,10 +1,10 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-Contains the view controller for the Breakfast Finder.
-*/
-
+//
+//  PreviewViewController.swift
+//  FlareHacksProject
+//
+//  Created by Shreeniket Bendre on 7/24/20.
+//  Copyright © 2020 Shreeniket Bendre. All rights reserved.
+//
 import UIKit
 import AVFoundation
 import Vision
@@ -21,7 +21,7 @@ class PreviewViewController: UIViewController, AVCaptureVideoDataOutputSampleBuf
     var old_char = ""
         
     
-    let model = try? VNCoreMLModel(for: SignLanguageRecognizer().model)
+    let model = try? VNCoreMLModel(for: MobileNetV2().model)
     
     
     var rectangleView = UIView()
