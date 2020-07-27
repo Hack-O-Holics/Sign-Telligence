@@ -19,3 +19,6 @@ We learned how to export PyTorch models to XCode and implement VR tools in iOS a
 
 ## What's Next For SignTelligence
 Hopefully, larger datasets will be created, so we can classify more types of signs. We also plan on improving the user interface to make it more aesthetically pleasing for our users.
+
+## Demo
+[![](http://img.youtube.com/vi/9iuHfg67M94/0.jpg)](http://www.youtube.com/watch?v=9iuHfg67M94 '')
